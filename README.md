@@ -1,8 +1,8 @@
 # TodoList-sequelize
 ----------------------------
-由Express製作的備忘錄
-模板引擎使用handlebars
-使用sequelize搭配/MySQL資料庫
+- 由Express製作的備忘錄
+- 模板引擎使用handlebars
+- 使用sequelize搭配/MySQL資料庫
 ***
 ## Installation-安裝說明
 
