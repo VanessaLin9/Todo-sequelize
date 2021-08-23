@@ -6,7 +6,9 @@ const Todo = db.Todo
 const User = db.User
 
 //新增
-
+router.get('/new', (req, res) => {
+  return res.render('new')
+})
 
 //查看
 
